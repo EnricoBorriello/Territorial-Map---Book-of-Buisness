@@ -1,0 +1,147 @@
+ID,City,State,Revenue,Latitude,Longitude
+1,Bloomington,Minnesota,1842093,44.8408,-93.2983
+2,Lehi,Utah,1543467,40.3916,-111.8508
+3,Cupertino,California,1100000,37.3229,-122.0322
+4,Oakland,California,817893,37.8044,-122.2711
+5,Redmond,Washington,695383,47.673,-122.1215
+6,Redwood City,California,620724,37.4852,-122.2364
+7,Dallas,Texas,611340,32.7767,-96.797
+8,New York,New York,495000,40.7128,-74.006
+9,Rosemont,Illinois,473848,41.9806,-87.9046
+10,Radnor,Pennsylvania,461196,40.0598,-75.384
+11,Armonk,New York,442638,41.1092,-73.7143
+12,Waltham,Massachusetts,435161,42.3765,-71.2356
+13,Hoboken,New Jersey,412005,40.7433,-74.0324
+14,Matawan,New Jersey,372472,40.4018,-74.2471
+15,Austin,Texas,358504,30.2672,-97.7431
+16,Scottsdale,Arizona,348200,33.4942,-111.9261
+17,Seattle,Washington,335724,47.6062,-122.3321
+18,Winnetka,Illinois,329443,42.1103,-87.7345
+19,Roxboro,North Carolina,325515,36.3843,-78.9731
+20,San Ramon,California,311996,37.7799,-121.978
+21,San Ramon,California,310361,37.7799,-121.978
+22,Falls Church,Virginia,306592,38.8823,-77.1711
+23,Tallahassee,Florida,290604,30.4383,-84.2807
+24,Arlington,Virginia,284544,38.8816,-77.091
+25,Newark,New Jersey,258424,40.7357,-74.1724
+26,Atlanta,Georgia,246468,33.749,-84.388
+27,Atlanta,Georgia,246241,33.749,-84.388
+28,Santa Monica,California,240682,34.0195,-118.4912
+29,Wawa,Pennsylvania,229637,39.9488,-75.375
+30,Dallas,Texas,222068,32.7767,-96.797
+31,Fort Lee,New Jersey,217133,40.8518,-73.9704
+32,New York,New York,216241,40.7128,-74.006
+33,Albuquerque,New Mexico,212810,35.0844,-106.6504
+34,San Francisco,California,205011,37.7749,-122.4194
+35,Charlotte,North Carolina,202600,35.2271,-80.8431
+36,Pittsburgh,Pennsylvania,198090,40.4406,-79.9959
+37,Tampa,Florida,189059,27.9506,-82.4572
+38,Glendale,California,183968,34.1425,-118.2551
+39,San Francisco,California,180525,37.7749,-122.4194
+40,Houston,Texas,180455,29.7604,-95.3698
+41,New York,New York,175832,40.7128,-74.006
+42,Minneapolis,Minnesota,175000,44.9778,-93.265
+43,Las Vegas,Nevada,172416,36.1699,-115.1398
+44,New Hyde Park,New York,167025,40.7245,-73.6881
+45,Santa Monica,California,166885,34.0195,-118.4912
+46,Overland Park,Kansas,163808,38.9822,-94.6708
+47,New York,New York,159894,40.7128,-74.006
+48,Dallas,Texas,158461,32.7767,-96.797
+49,Paducah,Kentucky,157017,37.0834,-88.6
+50,Milwaukee,Wisconsin,156632,43.0389,-87.9065
+51,New York,New York,154349,40.7128,-74.006
+52,Stamford,Connecticut,151605,41.0534,-73.5387
+53,Westlake,Ohio,150341,41.4643,-81.9158
+54,Greenwood Village,Colorado,148973,39.6133,-104.895
+55,Lehi,Utah,147400,40.3916,-111.8508
+56,Atlanta,Georgia,144460,33.749,-84.388
+57,Deerfield,Illinois,143264,42.1712,-87.844
+58,Charlotte,North Carolina,142864,35.2271,-80.8431
+59,Bethesda,Maryland,142812,38.9847,-77.0947
+60,Duluth,Georgia,140376,33.985,-84.1533
+61,Santa Barbara,California,140239,34.4208,-119.6982
+62,Milpitas,California,139342,37.4323,-121.8996
+63,San Francisco,California,138530,37.7749,-122.4194
+64,Scottsdale,Arizona,137165,33.4942,-111.9261
+65,Wilmington,Delaware,136305,39.7391,-75.5398
+66,Kansas City,Missouri,135696,39.0997,-94.5786
+67,Jacksonville,Florida,130583,30.3322,-81.6557
+68,Port Washington,New York,128447,40.8251,-73.7
+69,Tempe,Arizona,128063,33.4255,-111.94
+70,Carrollton,Texas,122063,32.9756,-96.8899
+71,Midland,Michigan,121555,43.6156,-84.2472
+72,New York,New York,117967,40.7128,-74.006
+73,Boston,Massachusetts,111228,42.3601,-71.0589
+74,Eagle,Idaho,110629,43.697,-116.366
+75,Culver City,California,110400,34.0211,-118.3965
+76,Scottsdale,Arizona,109052,33.4942,-111.9261
+77,Boca Raton,Florida,108500,26.3683,-80.1289
+78,Dallas,Texas,108240,32.7767,-96.797
+79,Pacifica,California,107830,37.6138,-122.4869
+80,Cary,North Carolina,106493,35.7915,-78.7811
+81,Beverly Hills,California,105950,34.0736,-118.4004
+82,Torrance,California,105306,33.8358,-118.3406
+83,Langhorn,Pennsylvania,104486,40.1695,-74.9184
+84,Saint Petersburg,Florida,103209,27.7676,-82.6403
+85,Eden Prairie,Minnesota,102822,44.8547,-93.4706
+86,Las Vegas,Nevada,99653,36.1699,-115.1398
+87,Conshohocken,Pennsylvania,99278,40.0921,-75.3293
+88,Lake Mary,Florida,97380,28.7798,-81.3611
+89,Albuquerque,New Mexico,95550,35.0844,-106.6504
+90,Richmond,Virginia,94501,37.5407,-77.436
+91,Atmore,Alabama,93540,31.0232,-87.488
+92,Sunnyvale,California,88486,37.3688,-122.0363
+93,Costa Mesa,California,88413,33.6411,-117.9187
+94,Columbus,Ohio,83200,39.9612,-82.9988
+95,San Jose,California,81000,37.3382,-121.8863
+96,Redlands,California,80684,34.0556,-117.1825
+97,Seattle,Washington,77477,47.6062,-122.3321
+98,Warren,New Jersey,77244,40.662,-74.4214
+99,San Francisco,California,76361,37.7749,-122.4194
+100,Bellevue,Washington,76200,47.6101,-122.2015
+101,Redwood City,California,74270,37.4852,-122.2364
+102,San Francisco,California,72923,37.7749,-122.4194
+103,Austin,Texas,72675,30.2672,-97.7431
+104,Hobe Sound,Florida,72285,27.0594,-80.148
+105,Dallas,Texas,70508,32.7767,-96.797
+106,Chicago,Illinois,68400,41.8781,-87.6298
+107,Boston,Massachusetts,64148,42.3601,-71.0589
+108,Redlands,California,63879,34.0556,-117.1825
+109,Denver,Colorado,62694,39.7392,-104.9903
+110,Farmland,Indiana,62041,40.4514,-86.8181
+111,Oshkosh,Wisconsin,61950,44.0247,-88.5426
+112,Campbell,California,61320,37.2872,-121.949
+113,Washington,DC,61085,38.9072,-77.0369
+114,Redwood City,California,59779,37.4852,-122.2364
+115,Plano,Texas,57992,33.0198,-96.6989
+116,Winona,Minnesota,55752,44.05,-91.6469
+117,Irvine,California,54612,33.6846,-117.8265
+118,Greensboro,North Carolina,54165,36.0726,-79.792
+119,Portland,Oregon,54014,45.5051,-122.675
+120,New York,New York,52731,40.7128,-74.006
+121,Topeka,Kansas,52535,39.0558,-95.689
+122,Redmond,Washington,49800,47.673,-122.1215
+123,Columbia,Missouri,48012,38.9517,-92.3341
+124,Pleasant Grove,Utah,48000,40.3632,-111.738
+125,Tulsa,Oklahoma,47190,36.1539,-95.9928
+126,Riverwoods,Illinois,46219,42.1606,-87.8551
+127,Dallas,Texas,45313,32.7767,-96.797
+128,St. Louis,Missouri,44674,38.627,-90.1994
+129,Jefferson City,Missouri,44479,38.5767,-92.1735
+130,Sarasota,Florida,41895,27.3364,-82.5307
+131,Scottsdale,Arizona,41197,33.4942,-111.9261
+132,Chicago,Illinois,40349,41.8781,-87.6298
+133,Denver,Colorado,37863,39.7392,-104.9903
+134,Scottsdale,Arizona,37508,33.4942,-111.9261
+135,Jacksonville,Florida,36375,30.3322,-81.6557
+136,Houston,Texas,36000,29.7604,-95.3698
+137,Englewood,Colorado,35700,39.647,-104.987
+138,Palo Alto,California,35637,37.4419,-122.143
+139,Somerville,Massachusetts,35513,42.3876,-71.0995
+140,Oakland,California,35400,37.8044,-122.2711
+141,Foster City,California,35338,37.5535,-122.2651
+142,Milwaukee,Wisconsin,12500,43.0389,-87.9065
+143,Olathe,Kansas,10904,38.8814,-94.8191
+144,Houston,Texas,5840,29.7604,-95.3698
+145,New York,New York,5000,40.7128,-74.006
+146,Arlington,Virginia,2900,38.8816,-77.091
